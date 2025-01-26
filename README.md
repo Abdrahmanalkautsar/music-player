@@ -5,4 +5,4 @@
 <p>cd music-player</p>
 <br/>
 
-#Jalankan di server local kalian, dengan menggunakan php -s localhost:8080 atau python -m http server
+<h3>Jalankan di server local kalian, dengan menggunakan php -s localhost:8080 atau python -m http.server</h3>
